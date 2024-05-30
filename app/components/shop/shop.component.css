@@ -1,0 +1,21 @@
+  .filters-select{
+    width: 15% !important;
+    height: 40px !important;
+  }
+  .card-container{
+  margin-top: 5.5%;
+  }
+  .card-img{
+    z-index: 1;
+  }
+  .like {
+    font-size: 1.5rem;
+    color: #006663;
+  }
+  .products-panel{
+    max-height: 600px;
+  }
+  .add-cart-btn{
+    background-color: #006663;
+    z-index: 1;
+  }

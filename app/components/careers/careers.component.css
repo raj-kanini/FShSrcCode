@@ -1,0 +1,124 @@
+.first-container {
+  margin-top: 7.5rem;
+  max-height: 400px;
+  overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  margin: 0;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #8d8b8b;
+  font-weight: 800;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 14px 10px;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  color: black;
+  border-bottom: 3px solid red;
+}
+
+.topnav .active {
+  color: black;
+  border-bottom: 3px solid red;
+}
+
+.category .job {
+  height: 280px;
+  border: 1px solid transparent;
+  padding: 30px 19px 25px 19px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.category .job:hover {
+  border: 1px solid #0d6efd;
+}
+
+.category .job span {
+  padding: 6px 20px;
+  font-weight: 400;
+  border-radius: 26px;
+  display: inline-block;
+}
+
+.category .job .colors1 {
+  color: #ffffff;
+  background-color: #006663;
+}
+
+.category .job .colors2 {
+  color: #ffffff;
+  background-color: #006663;
+}
+
+.category .job .colors3 {
+  color: #ffffff;
+  background-color: #006663;
+}
+
+.category .job .colors4 {
+  color: #ffffff;
+  background-color: #006663;
+}
+
+.category .job .colors5 {
+  color: #ffffff;
+  background-color: #006663;
+}
+
+.category .job .colors2 {
+  color: #ffffff;
+  background-color: #006663;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #071112;
+  text-transform: capitalize;
+  margin-bottom: 17px;
+  display: block;
+}
+
+.place {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding-left: 0px;
+  color: #76787a;
+}
+
+.left {
+  font-weight: bolder;
+}
+
+.btn.btn-primary {
+  width: 150px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
